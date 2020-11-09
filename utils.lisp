@@ -1,6 +1,6 @@
 ;; my very own lisp utilities
 
-(in-package :utils)
+;; (in-package :gmacs)
 
 (defconstant +up+ #\LATIN_SMALL_LETTER_A_WITH_BREVE)
 (defconstant +down+ #\LATIN_CAPITAL_LETTER_A_WITH_BREVE)
